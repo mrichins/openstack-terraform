@@ -4,7 +4,5 @@ First you gotta export the following variables correctly just to make sure you'r
 
 `export OS_USERNAME="(YOUR USERNAME)"`
 `export OS_PASSWORD="(YOUR PASSWORD)"`
-`export OS_PROJECT_NAME=(YOUR PROJECT NAME)`
-``
-
-If you don't have this information (and are using the (Trystack)[Trystack.org] then you can find it on the UI then you can find it with this 
+`export OS_TENANT_NAME="(YOUR PROJECT/TENANT NAME)"`
+`export OS_TENANT_ID="(YOUR PROJECT ID)"`
